@@ -9,3 +9,6 @@ let accountState;
     // console.log(accountEmail);
 //second Method
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
+
+// primitive data Type store in Stack Memory
+// Non-Primitive data Type store in Heap Memory
